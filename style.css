@@ -1,0 +1,16 @@
+body{
+    background-color: aqua;
+    border: 23px solid black;
+
+}
+nav{
+    background-color: red;
+    display: flex;
+    flex-direction: column;
+    border: 2 px solid black;
+}
+nav ul li{
+    background-color: azure;
+    justify-content: center;
+    
+}
